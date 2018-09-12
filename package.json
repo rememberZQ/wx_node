@@ -1,0 +1,27 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@types/bootstrap": "^4.1.2",
+    "@types/koa-bodyparser": "^5.0.1",
+    "@types/log4js": "^2.3.5",
+    "@types/sequelize": "^4.27.25",
+    "bootstrap": "^3.3.7",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-log4": "^2.3.0",
+    "koa-router": "^7.4.0",
+    "koa-xtpl": "^2.1.1",
+    "log4js": "^3.0.5",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
