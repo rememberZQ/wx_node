@@ -16,7 +16,7 @@
     "koa-xtpl": "^2.1.1",
     "log4js": "^3.0.5",
     "mysql2": "^1.6.1",
-    "sequelize": "^4.38.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {},
   "scripts": {
